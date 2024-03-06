@@ -3,7 +3,7 @@
 
 
 ### 😄 Sobre mim:
-Sou de Barueri-São Paulo e amo estar com a família, em migração de carreira sou uma desenvolvedora web, sempre fui movida a desafios apaixonada por soluções, com a expertise de visualizar o macro e aprendizado contínuo. Atualmente, estou cursando o MBA em Engenharia de Software na USP/Esalq, onde aprofundo meus conhecimentos em front-end, bancos de dados, cloud, metodologias ágeis e desenvolvendo habilidades e adquirindo muito conhecimento no Bootcamp da Laboratória.
+Sou de Barueri-São Paulo e amo estar com a família, em migração de carreira sou uma desenvolvedora web, sempre fui movida a desafios apaixonada por soluções, com a expertise de visualizar o ambiente macro e aprendizado contínuo. Atualmente, estou cursando o MBA em Engenharia de Software na USP/Esalq, onde aprofundo meus conhecimentos em front-end, bancos de dados, cloud, metodologias ágeis e desenvolvendo habilidades e adquirindo muito conhecimento no Bootcamp da Laboratória.
 
 ### 🌱 Tecnologias:
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/bbe72def-4042-4bdc-a2dd-78d5adb4ccce" alt="ícone javascript" width="30" height="30" >
