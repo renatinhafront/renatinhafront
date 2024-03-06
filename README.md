@@ -11,6 +11,8 @@ Sou de Barueri-São Paulo e amo estar com a família, em migração de carreira 
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/ba5972e3-24f3-4187-bfc5-bc523fc55e16" alt="ícone html" width="30" height="30">
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/80145382-6fd8-4620-86f1-9da97191aad4" alt="ícone figma" width="30" height="30">
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/3aaea765-7025-4815-b606-92d26cdc8ec2" alt="ícone trello" width="30" height="30">
+<img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/83cb8a57-f2ea-4246-a4d9-aa0793263dd1" alt="ícone jest" width="30" height="30">
+
 
 ### Projetos com:
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/68450a11-19ca-4142-8402-06baa0592a46" alt="ícone laboratória" width="30" height="30">
