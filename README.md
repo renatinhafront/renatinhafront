@@ -6,12 +6,15 @@
 Sou de Barueri-São Paulo e amo estar com a família, em migração de carreira sou uma desenvolvedora web, sempre fui movida a desafios apaixonada por soluções, com a expertise de visualizar o ambiente macro e aprendizado contínuo. Atualmente, estou cursando o MBA em Engenharia de Software na USP/Esalq, onde aprofundo meus conhecimentos em front-end, bancos de dados, cloud, metodologias ágeis e desenvolvendo habilidades e adquirindo muito conhecimento no Bootcamp da Laboratória.
 
 ### 🌱 Tecnologias:
-<img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/bbe72def-4042-4bdc-a2dd-78d5adb4ccce" alt="ícone javascript" width="30" height="30" >
-<img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/e173db45-50c6-4f02-8822-cf3a98876a62" alt="ícone css" width="30" height="30" >
-<img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/ba5972e3-24f3-4187-bfc5-bc523fc55e16" alt="ícone html" width="30" height="30">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ícone javascript" >
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="ícone node.js" >
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ícone typescript" >
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="ícone css" >
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="ícone html" >
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="ícone jest" >
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/80145382-6fd8-4620-86f1-9da97191aad4" alt="ícone figma" width="30" height="30">
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/3aaea765-7025-4815-b606-92d26cdc8ec2" alt="ícone trello" width="30" height="30">
-<img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/83cb8a57-f2ea-4246-a4d9-aa0793263dd1" alt="ícone jest" width="30" height="30">
+
 
 
 ### Projetos com:
