@@ -19,12 +19,12 @@
 
 
 
-### Projetos com:
+### ✨ Projetos com:
 
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/68450a11-19ca-4142-8402-06baa0592a46" alt="ícone laboratória" width="30" height="30">
 Trabalhando em projetos autônomos com foco em desenvolvimento pessoal na Laboratória!
 
-### Graduação:
+### ✨ Graduação:
 
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/295cb160-3477-431f-8b09-7b6704e46d75" alt="ícone laboratória" width="30" height="30">
 Cursando MBA USP/Esalq - Engenharia de Software
@@ -33,6 +33,3 @@ Cursando MBA USP/Esalq - Engenharia de Software
 ### 📫 Me encontre aqui:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renata-saraiva-santos/)
-
-
-✨Muito Obrigada!!✨
