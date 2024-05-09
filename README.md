@@ -1,11 +1,13 @@
 
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/7ab22832-3b55-40e8-b02a-a925648cf184" alt="banner com o nome Renata Saraiva">
 
+### Olá, eu sou Renata Saraiva!!😄
 
-### 😄 Sobre mim:
-Sou de Barueri-São Paulo e amo estar com a família, em migração de carreira sou uma desenvolvedora web, sempre fui movida a desafios apaixonada por soluções, com a expertise de visualizar o ambiente macro e aprendizado contínuo. Atualmente, estou cursando o MBA em Engenharia de Software na USP/Esalq, onde aprofundo meus conhecimentos em front-end, bancos de dados, cloud, metodologias ágeis e desenvolvendo habilidades e adquirindo muito conhecimento no Bootcamp da Laboratória.
+- Desenvolvedora web
+- Movida a desafios e apaixonada por soluções
 
-### 🌱 Tecnologias:
+### 🌱 Stacks:
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="ícone java" >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ícone javascript" >
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="ícone node.js" >
@@ -18,10 +20,12 @@ Sou de Barueri-São Paulo e amo estar com a família, em migração de carreira 
 
 
 ### Projetos com:
+
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/68450a11-19ca-4142-8402-06baa0592a46" alt="ícone laboratória" width="30" height="30">
 Trabalhando em projetos autônomos com foco em desenvolvimento pessoal na Laboratória!
 
 ### Graduação:
+
 <img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/295cb160-3477-431f-8b09-7b6704e46d75" alt="ícone laboratória" width="30" height="30">
 Cursando MBA USP/Esalq - Engenharia de Software
 
