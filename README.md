@@ -1,5 +1,6 @@
 
-<img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/7ab22832-3b55-40e8-b02a-a925648cf184" alt="banner com o nome Renata Saraiva">
+<img src="https://github.com/renatinhafront/renatinhafront/assets/107226201/b6ddf4e7-d6c8-483c-adf2-99a3b64de881" alt="banner com o nome Renata Saraiva">
+
 
 ### Olá, eu sou Renata Saraiva!!😄
 
