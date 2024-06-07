@@ -4,7 +4,7 @@
 
 ### Olá, eu sou Renata Saraiva!!😄
 
-- Desenvolvedora web
+- Desenvolvedora
 - Movida a desafios e apaixonada por soluções
 
 ### 🌱 Stacks:
